@@ -1,0 +1,4 @@
+port-example provides CMake targets:
+
+find_package(port-example CONFIG REQUIRED)
+target_link_libraries(main PRIVATE port-example::port-example)
