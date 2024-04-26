@@ -1,6 +1,6 @@
 {
   "name": "port-example",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "vcpkg port example",
   "homepage": "https://github.com/sunzhenkai/vcpkg-port-example",
   "license": "MIT",
