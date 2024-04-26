@@ -1,10 +1,11 @@
 {
   "name": "port-example",
   "version": "0.0.1",
-  "homepage": "https://github.com/sunzhenkai/vcpkg-port-example",
   "description": "vcpkg port example",
+  "homepage": "https://github.com/sunzhenkai/vcpkg-port-example",
   "license": "MIT",
   "dependencies": [
+    "fmt",
     {
       "name": "vcpkg-cmake",
       "host": true
@@ -12,7 +13,6 @@
     {
       "name": "vcpkg-cmake-config",
       "host": true
-    },
-    "fmt"
+    }
   ]
 }
