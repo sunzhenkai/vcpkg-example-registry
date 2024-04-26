@@ -3,7 +3,7 @@ vcpkg_check_linkage(ONLY_STATIC_LIBRARY)
 vcpkg_from_git(
         OUT_SOURCE_PATH SOURCE_PATH
         URL https://github.com/sunzhenkai/vcpkg-port-example.git
-        REF "c3924ac3796a419c0b1075eb7d3c794ee17332e1"
+        REF "0e81be583e6c9e9a46bd04b05610ae4645fbb450"
         HEAD_REF main
 )
 
